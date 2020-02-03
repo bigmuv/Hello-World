@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My World</title>
+
+</head>
+
+<body> 
+<h1> Welcome To My World</h1>
+<p> I am <strong> Just Smile. </strong> A graduate of Accounting but now taking a dive into Web development. I started learning html and css as a new year goal on the 01/01/2020. So far it has been an interesting journey as i have met with some challenges which made me think if coding was really what i wanna do... But with all the challenges faced so far, i have realized that it is so much interesting and fulfilling when i put in time to figure out the solution to the problem. Which i think is the best part of coding for me so far. I enjoy it. I hope to start building projects and exploring the creative part of coding. </p>
+
+<img scr="https://www.facebook.com/photo.php?fbid=234788597491614&set=a.103209777316164&type=3&theater" alt="my picture justsmile">
+
+<P>click the link to follow me on <a href="https://www.facebook.com/chigozie.philipumeh.1" >facebook </a> </P>
+
+
+
+
+</body>
+
+
+
+
+</html>
